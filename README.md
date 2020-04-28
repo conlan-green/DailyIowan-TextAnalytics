@@ -14,3 +14,10 @@ Performed by Conlan Green. In the Web Scrape file I used the library Beautiful s
 
 # Instructions/ Needed Files
 The necessary data to run the analysis is included in "ArticleText.csv" which will be uploaded with the final project. 
+
+
+# Change History 
+
+4/20/20 - uploaded the original webscrape file. Scraped and created list of HTML files
+
+
