@@ -32,6 +32,6 @@ The necessary data to run the analysis is included in "ArticleText.csv" which wi
 4/29/20 - uploaded created "ArticleText.csv", updated Web Scrape.ipynb with changes for creating a csv file
 
 # Planned Improvements
-sentiment analysis - Daniel Dai
-csv cleaning and reupload - Conlan Green
+sentiment analysis - Daniel Dai \n
+csv cleaning and reupload - Conlan Green \n
 topic modeling and clustering - Conlan Green and Jenna Di Pino
