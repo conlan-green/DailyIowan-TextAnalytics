@@ -23,11 +23,15 @@ Performed by Daniel Dai
 
 
 # Instructions/ Needed Files
-The necessary data to run the analysis is included in "ArticleText.csv" which will be uploaded with the final project. 
+The necessary data to run the analysis is included in "ArticleText.csv" which will be uploaded with the final project. You may run Web Scrape if you would like the html files as well but it takes a large amount of time due to built in sleep function in order to be respectful to the website
 
 
 # Change History 
 
 4/20/20 - uploaded the original webscrape file. Scraped and created list of HTML files
+4/29/20 - uploaded created "ArticleText.csv", updated Web Scrape.ipynb with changes for creating a csv file
 
 # Planned Improvements
+sentiment analysis - Daniel Dai
+csv cleaning and reupload - Conlan Green
+topic modeling and clustering - Conlan Green and Jenna Di Pino
